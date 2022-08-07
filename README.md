@@ -1,14 +1,14 @@
 # Conexion-a-broker-HiveMQ-con-Mosquitto
 Se detallan los pasos para hacer una conexión con el broker HiveMQ https://www.hivemq.com/
 
-1. Usar linux en Ubunto 22 de preferencia
+1. Usar linux en Ubuntu 22 de preferencia.
 2. Instalar Mosquitto en una terminal con 
 	sudo apt-add-repository ppa:mosquitto-dev/mosquitto-ppa
   	sudo apt-get update
 	sudo apt install mosquitto
   - O ingresar a https://mosquitto.org/download/ para instalar
 - Se puede instalar desde el repositorio de software de Ubuntu
-- 
+
 ![imagen](https://user-images.githubusercontent.com/72757419/183270035-dfee055e-7cea-4c32-bd3f-5874068e01a3.png)
 3. Comprobar que funciona mosquitto on 
 -netstat -an
