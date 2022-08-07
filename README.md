@@ -33,6 +33,7 @@ Se detallan los pasos para hacer una conexión con el broker HiveMQ https://www.
       - Usar el nombre_suscriptor adecuado (se puede cambiar)
       - Inscribirse al tópico adecuado para leer mensajes topico/topico_1
       Se verán los mensajes del tópico
+      
       ![imagen](https://user-images.githubusercontent.com/72757419/183270420-55967bca-4fe1-46fc-a430-021c5e1dbcd6.png)
 
       
